@@ -13,7 +13,7 @@ allowed_columns = ['name','playtime','achievements_count','ratings_count','sugge
 
 # Choose possible column values for Y-axis
 possible_y = ['playtime','achievements_count','ratings_count','suggestions_count','game_series_count','reviews_count']
-df = pd.read_csv('fisrt_40_lines.csv', usecols= allowed_columns,  nrows=25)
+df = pd.read_csv('first_40_lines.csv', usecols= allowed_columns,  nrows=25)
 st.sidebar.header('Data Visualization Options')
 st.sidebar.write('Game Analytics Bar Chart')
 
