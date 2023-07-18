@@ -1,0 +1,40 @@
+id,slug,name,metacritic,released,tba,updated,website,rating,rating_top,playtime,achievements_count,ratings_count,suggestions_count,game_series_count,reviews_count,platforms,developers,genres,publishers,esrb_rating,added_status_yet,added_status_owned,added_status_beaten,added_status_toplay,added_status_dropped,added_status_playing
+1,dgeneration-hd,D/Generation HD,,2015-10-23,False,2019-09-17T11:58:57,http://dgeneration.net,0.0,0,1,80,2,292,0,4,PC||macOS||Xbox One||PlayStation 4||Nintendo Switch,West Coast Software,Adventure||Puzzle,West Coast Software,Everyone 10+,4,88,2,2,0,0
+10,g-prime,G Prime Into The Rain,,2016-01-06,False,2019-11-06T23:04:19,,0.0,0,0,26,3,389,0,3,macOS||PC||Xbox One,Soma Games,Simulation||Indie,Immanitas Entertainment||Code-Monkeys,Everyone,2,42,2,0,0,0
+100,land-sliders,Land Sliders,,2015-09-24,False,2019-10-22T13:56:16,http://prettygreat.com,0.0,0,0,0,2,83,0,2,iOS,Prettygreat Pty,Adventure||Arcade,Prettygreat Pty,Everyone 10+,0,2,2,0,1,0
+1000,pixel-gear,Pixel Gear,,2016-10-20,False,2019-08-28T22:16:02,https://www.facebook.com/Geronimo-Interactive-1789605664633280/?ref=bookmarks,0.0,0,0,0,0,455,0,0,PC||PlayStation 4,Oasis Games||Geronimo Interactive,Action||Indie,Geronimo Interactive,Teen,0,1,0,0,0,0
+10000,gods-and-idols,Gods and Idols,,2016-12-12,False,2019-09-17T13:37:13,http://www.godsandidols.com/,0.0,1,1,0,5,262,0,5,PC,Viking Tao,RPG||Strategy||Massively Multiplayer,Viking Tao,,2,79,0,0,0,0
+100000,plague-venue,Plague venue,,2017-12-02,False,2019-01-09T12:41:06,,0.0,0,0,0,0,40,0,0,Web,Alexander Ponomariov,,,,0,0,0,0,0,0
+100001,the-moon-sliver-itch,The Moon Sliver (itch),,2014-05-03,False,2019-01-09T12:41:06,,0.0,0,0,0,0,116,0,0,PC||macOS,David Szymanski,Adventure,,,0,0,0,0,0,0
+100002,red-entity,Red Entity,,2014-08-26,False,2019-01-09T12:41:06,,0.0,0,0,0,0,39,0,0,PC||macOS||Linux,woof,Action||Shooter,,,0,0,0,0,0,0
+100004,hippiesvscops,HippiesVsCops,,2016-04-18,False,2019-08-28T23:25:11,,0.0,0,0,0,0,26,0,0,PC,alegaroficial,Strategy,,,0,0,0,0,0,0
+100005,they-came-through-the-floor,They Came Through the Floor,,2018-06-24,False,2019-01-09T12:41:06,,0.0,0,0,0,0,98,0,0,PC,Atte Okkonen,Platformer,,,0,0,0,0,0,0
+100006,fading-light-descent,Fading Light: Descent,,2017-08-24,False,2019-01-09T12:41:06,,0.0,0,0,0,0,279,0,0,PC,Dansodic,Adventure,,,0,1,0,0,0,0
+100007,the-book-ritual-beta,The Book Ritual (Beta),,2018-07-06,False,2019-01-09T12:41:06,,0.0,0,0,0,0,111,0,0,PC||macOS,Alistair Aitcheson,,,,0,0,0,0,0,0
+100009,corner-of-the-club-simulator,Corner of the Club Simulator,,2018-04-30,False,2019-01-09T12:41:06,,0.0,0,0,0,0,21,0,0,PC||Web,Jayson Musson,Simulation,,,0,0,0,0,0,0
+10001,serious-sam-fusion-2017-beta,Serious Sam Fusion 2017 (beta),,2017-03-20,False,2020-03-08T19:03:42,http://www.croteam.com,3.07,4,1,76,227,541,19,227,Linux||macOS||PC,Croteam,Action||Indie,Devolver Digital||Croteam,,200,3292,41,11,79,2
+100010,intelligence-the-314th-clash,Intelligence: The 314th Clash!,,2016-08-31,False,2019-01-09T12:41:06,,0.0,0,0,0,0,355,0,0,PC,Bizarre Monkey,RPG,,,0,0,0,0,0,0
+100011,que-sera-sera-demo,Que Sera Sera Demo,,2018-04-08,False,2019-08-28T23:25:11,,0.0,0,0,0,0,164,0,0,PC||macOS,Eufrasio,Action||Shooter||Platformer,,,0,0,0,0,0,0
+100012,excelsior-phase-one-lysandia,Excelsior Phase One: Lysandia,,2017-02-06,False,2019-01-09T12:41:06,,0.0,0,0,0,0,164,0,0,PC,11th Dimension Entertainment,RPG,,,0,0,0,0,0,0
+100014,space-escape-2,Space Escape,,2015-09-05,False,2019-01-09T12:41:06,,0.0,0,0,0,0,58,0,0,Web,Dark Wall Games,Shooter,,,0,0,0,0,0,0
+100015,passing-through-the-milky-way,Passing Through the Milky Way,,2018-07-02,False,2019-01-09T12:41:06,,0.0,0,0,0,0,7,0,0,Web,Dermot,,,,0,0,0,0,0,0
+100016,corpus100,CORPUS100,,2017-05-12,False,2019-08-28T23:25:11,,0.0,0,0,0,0,48,0,0,Web,MAVW,Shooter,,,0,0,0,0,0,0
+100017,thoughts,Thoughts,,2016-05-05,False,2019-01-09T12:41:06,,0.0,0,0,0,0,56,0,0,PC,VikkiRuttle,Platformer,,,0,0,0,0,0,0
+100018,blasted-bots,Blasted Bots,,2016-03-07,False,2019-01-09T12:41:06,,0.0,0,0,0,0,201,0,0,PC,IanAnimated,Shooter,,,0,0,0,0,0,0
+100019,the-spaghetti-western-excavation,The Spaghetti Western Excavation,,2018-03-31,False,2019-01-09T12:41:06,,0.0,0,0,0,0,22,0,0,Web,Jordan Oloman,,,,0,0,0,0,0,0
+10002,life-is-feudal-forest-village,Life is Feudal: Forest Village,,2016-08-26,False,2019-09-17T10:28:05,http://lifeisfeudal.com/fv,3.74,4,3,29,18,596,0,19,PC,Mindillusion,Strategy||Simulation||Indie,Bitbox,,8,150,7,10,5,4
+100020,legionwood-2-rise-of-the-eternals-realm,Legionwood 2: Rise of the Eternal's Realm,,2016-01-03,False,2019-01-09T12:41:06,,0.0,0,0,0,0,230,0,0,PC,Dark Gaia Studios,RPG,,,0,0,0,0,0,0
+100021,shape-master,Shape Master,,2016-04-18,False,2019-01-09T12:41:06,,0.0,0,0,0,0,129,0,0,PC||macOS||Linux,B0pt1K,,,,0,0,0,0,0,0
+100022,my-world,My World,,2017-04-25,False,2019-01-09T12:41:06,,0.0,0,0,0,0,84,0,0,PC||macOS,ciderwrath,,,,0,0,0,0,0,0
+100023,toilet-tycoon-itch,Toilet Tycoon (itch),,2016-05-03,False,2019-01-09T12:41:06,,0.0,0,0,0,0,124,0,0,PC,Plug In Digital,Strategy||Simulation,,,0,0,0,0,0,0
+100024,daddy-dont-explode-me,"Daddy, Don't Explode Me!",,2015-09-25,False,2019-01-09T12:41:06,,0.0,0,0,0,0,33,0,0,PC,Fi Silva,Puzzle,,,0,0,0,0,0,0
+100025,the-spellbent-keep,The Spellbent Keep,,2016-05-27,False,2019-08-28T23:25:11,,0.0,0,0,0,0,209,0,0,PC,Billy Slang,RPG,,,0,0,0,0,0,0
+100027,circuit-breakers-demo,Circuit Breakers - Demo,,2016-09-02,False,2019-01-09T12:41:06,,0.0,0,0,0,0,142,0,0,PC,reel_big_kris,Shooter,,,0,0,0,0,0,0
+100028,toadies-adventure,Toadie's Adventure,,2018-03-30,False,2019-01-09T12:41:06,,0.0,0,0,0,0,99,0,0,PC,FelixBlobDev,Adventure||Platformer,,,0,0,0,0,0,0
+100029,a-near-dawn-text-prototype,A Near Dawn: Text Prototype,,2017-11-01,False,2019-01-09T12:41:06,,0.0,0,0,0,0,10,0,0,Web,Leonid Pilchin,Adventure,,,0,0,0,0,0,0
+10003,naval-action,Naval Action,,2016-01-21,False,2020-11-04T13:17:46,http://www.navalaction.com,0.0,5,15,0,4,342,0,5,PC,Game-Labs,Action||Adventure||Strategy||Simulation||Massively Multiplayer||Indie,Game-Labs,,2,49,2,1,1,0
+100030,purify,Purify,,2017-02-24,False,2019-01-09T12:41:06,,0.0,0,0,0,0,32,0,0,PC,Troy-Martens,Action,,,0,0,0,0,0,0
+100031,dog-world,Dog World,,2015-02-08,False,2019-01-09T12:41:06,,0.0,0,0,0,0,30,0,0,PC,Solomon Fletcher,RPG,,,0,0,0,0,0,0
+100032,corra-snows,Corra Snows,,2016-05-01,False,2019-08-28T23:25:11,,0.0,0,0,0,0,120,0,0,PC||macOS||Linux,Mauricio Felippe,Platformer,,,0,0,0,0,0,0
+100033,graveyard-birds-itch,Graveyard Birds (itch),,2018-05-17,False,2019-01-09T12:41:06,,0.0,0,0,0,0,173,0,0,PC||macOS,indspenceable,Puzzle,,,0,0,0,0,0,0
+100034,dark-rogue,Dark Rogue,,2015-03-23,False,2019-01-09T12:41:06,,0.0,0,0,0,0,62,0,0,PC||macOS||Linux,coffeemuggames,Adventure,,,0,0,0,0,0,0
